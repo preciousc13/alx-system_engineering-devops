@@ -1,2 +1,3 @@
 #!/bin/bash
-chomd -R +x .
+chomd x+x */
+
