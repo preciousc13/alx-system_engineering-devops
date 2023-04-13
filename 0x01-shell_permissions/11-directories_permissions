@@ -1,2 +1,2 @@
 #!/bin/bash
-chmor -r +x
+chmod -r +x .
